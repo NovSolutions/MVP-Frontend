@@ -1,0 +1,3 @@
+git add .
+git commit -m "Scaffold React app with Vite"
+git push origin main
